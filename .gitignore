@@ -1,1 +1,11 @@
-pvenv
+# Python virtual environment
+pvenv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project specific
+chrome_langchain_db/
