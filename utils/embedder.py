@@ -1,8 +1,9 @@
 import os
+from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
 
-# Set Hugging Face API key
-os.environ["HUGGINGFACE_API_KEY"] = "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"
+# Load environment variables from .env file
+load_dotenv()
 
 def get_embedder():
     return HuggingFaceEmbeddings(

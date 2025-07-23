@@ -10,3 +10,5 @@ __pycache__/
 # Project specific
 chrome_langchain_db/
 vector_store/
+
+.env
