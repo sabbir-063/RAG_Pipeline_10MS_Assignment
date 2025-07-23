@@ -3,3 +3,4 @@ chromadb
 unstructured 
 pdfminer.six 
 sentence-transformers
+langchain-community
