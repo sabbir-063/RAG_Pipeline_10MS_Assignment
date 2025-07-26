@@ -1,14 +1,15 @@
-# Python virtual environment
-pvenv/
-venv/
+restuarent_review_codes
+vectorstore
+venv
+utils
+
 
 # Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.log
 # Project specific
-chrome_langchain_db/
-vector_store/
 
 .env
+ollama_rag.py
