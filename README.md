@@ -1,4 +1,4 @@
-# RAG-Based Chatbot
+# RAG-Based Chatbot Pipeline
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using Python. The chatbot leverages vector embeddings and a retrieval system to provide contextually relevant responses.
 
